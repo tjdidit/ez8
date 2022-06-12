@@ -1,0 +1,6 @@
+make.exe --dry-run --keep-going --print-directory
+make.exe: Entering directory `g:/dev/pn'
+gcc -Iinclude -Llib -o ez8 main.c -lmingw32 -lSDL2main -lSDL2
+ 
+make.exe: Leaving directory `g:/dev/pn'
+ 

@@ -1,0 +1,4 @@
+*.dll
+*.exe
+*.ch8
+/lib
